@@ -1,0 +1,9 @@
+.input-content {
+  display: flex;
+}
+.elem {
+  margin-right: auto;
+}
+.ipurl {
+  width: 600px;
+}

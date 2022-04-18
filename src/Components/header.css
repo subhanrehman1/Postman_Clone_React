@@ -1,0 +1,29 @@
+.header-elem {
+  display: flex;
+  color: #0284c7;
+}
+.postman-icon {
+  height: 100px;
+  width: 100px;
+}
+.navbar {
+  display: flex;
+  background-color: white;
+  color: #0284c7;
+  margin-top: auto;
+}
+.header {
+  display: flex;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+.navbar-links {
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 3rem;
+  margin-right: 3rem;
+}
+.navbar-links:hover {
+  border-bottom: 2px solid #0284c7;
+  margin-top: auto;
+}

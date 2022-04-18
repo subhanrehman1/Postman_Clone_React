@@ -1,0 +1,9 @@
+.historytitle {
+  color: #0284c7;
+  text-align: center;
+}
+.history-content {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}

@@ -1,0 +1,14 @@
+.resp-labels {
+  color: #0284c7;
+}
+.response-text {
+  width: 100%;
+  border-radius: 5px;
+  height: 50vh;
+  margin-top: 10px;
+  border: 1px solid #0284c7;
+}
+.label2 {
+  float: right;
+  margin-right: 150px;
+}
